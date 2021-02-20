@@ -1,2 +1,2 @@
 # ds_cpp
-Data structure written in cpp
+Data structure written in cpp. There may be some bugs...
